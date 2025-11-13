@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.000000,
-partgc10.ts
+partgc20.ts
 #EXTINF:10.000000,
-partgc11.ts
+partgc21.ts
 #EXTINF:10.000000,
-partgc12.ts
+partgc22.ts
 #EXT-X-ENDLIST
