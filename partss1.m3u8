@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:42
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:42.000000,
-part0.ts
+partss0.ts
 #EXTINF:42.000000,
-part1.ts
+partss1.ts
 #EXTINF:42.000000,
-part2.ts
+partss2.ts
 #EXTINF:1.920000,
-part3.ts
+partss3.ts
 #EXT-X-ENDLIST
